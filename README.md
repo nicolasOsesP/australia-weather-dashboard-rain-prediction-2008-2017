@@ -37,7 +37,7 @@ El conjunto de datos proviene de registros meteorológicos históricos proporcio
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/nicoalexanderdev/AUS-weather-app.git
+git clone https://github.com/nicolasOsesP/AUS-weather-app.git
 cd AUS-weather-app
 ```
 
@@ -79,5 +79,5 @@ pip install uv
 ## 🙌 Autor
 
 - Desarrollado por Nicolás Oses Pérez – [LinkedIn](https://www.linkedin.com/in/nicolas-oses/)
-- Estudiante de Ingeniería en Informática | Mención Ciencia de Datos
+- Ingeniero en Informática | Especialización en Ciencia de Datos
 - DuocUC – 2025
